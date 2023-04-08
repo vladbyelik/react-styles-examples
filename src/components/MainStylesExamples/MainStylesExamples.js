@@ -1,9 +1,7 @@
 import React from 'react';
-
 import styles from './MainStylesExamples.module.css';
 
 class MainStylesExamples extends React.Component {
-
   state = {
     isRed: true
   }
@@ -40,7 +38,6 @@ class MainStylesExamples extends React.Component {
         >
           Click
         </button>
-
       </div>
     )
   }

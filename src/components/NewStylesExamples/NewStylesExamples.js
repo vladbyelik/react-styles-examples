@@ -1,5 +1,4 @@
 import React from 'react';
-
 import styles from './NewStylesExamples.module.scss';
 
 class NewStylesExamples extends React.Component {
